@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Phalanx",
+    "tribe": "Gallia",
+    "type": "Infantry",
+    "attackPower": 50,
+    "CommanderId": 1
+  },
+  {
+    "name": "Teutonic Knight",
+    "tribe": "Teuton",
+    "type": "Cavalry",
+    "attackPower": 120,
+    "CommanderId": 2
+  },
+  {
+    "name": "Theutates Thunder",
+    "tribe": "Roman",
+    "type": "Infantry",
+    "attackPower": 70,
+    "CommanderId": 3
+  },
+  {
+    "name": "Equites Imperatoris",
+    "tribe": "Gallia",
+    "type": "Cavalry",
+    "attackPower": 90,
+    "CommanderId": 4
+  }
+]
